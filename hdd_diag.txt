@@ -1,0 +1,36 @@
+standard INQUIRY:
+  PQual=0  Device_type=0  RMB=0  version=0x06  [SPC-4]
+  [AERC=0]  [TrmTsk=0]  NormACA=0  HiSUP=1  Resp_data_format=2
+  SCCS=0  ACC=0  TPGS=0  3PC=0  Protect=1  [BQue=0]
+  EncServ=0  MultiP=1 (VS=0)  [MChngr=0]  [ACKREQQ=0]  Addr16=0
+  [RelAdr=0]  WBus16=0  Sync=0  Linked=0  [TranDis=0]  CmdQue=1
+  [SPI: Clocking=0x0  QAS=0  IUS=0]
+    length=164 (0xa4)   Peripheral device type: disk
+ Vendor identification: SmrtStor
+error count = 5
+ Product identification: TXA2D20800GA6KAM
+ Product revision level: KZ10
+ Unit serial number: FG005Y2W
+    SmrtStor  TXA2D20800GA6KAM  KZ10
+Solid state media page (sbc-3) [0x11]
+  Percentage used endurance indicator: 1%
+    SmrtStor  TXA2D20800GA6KAM  KZ10
+Non-medium error page
+  Non-medium error count = 1
+    SmrtStor  TXA2D20800GA6KAM  KZ10
+Statistics and performance log parameter
+  number of read commands = 3815231177
+  number of write commands = 8892566926
+  number of logical blocks received = 1063540496129
+  number of logical blocks transmitted = 160336623961
+  read command processing intervals = 0
+  write command processing intervals = 0
+  weighted number of read commands plus write commands = 0
+  weighted read command processing plus write command processing = 0
+Idle time log parameter
+  idle time intervals = 0
+Time interval log parameter for general stats
+  time interval negative exponent = 0
+  time interval integer = 0
+error count = 12
+     error count = 2
